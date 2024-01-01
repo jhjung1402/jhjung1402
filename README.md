@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhjung1402)](https://github.com/jhjung1402/velog-readme-stats)
-
-# ![](https://notion-ga.ohwhos.now.sh/collect?tid=G-EL8CPQBJD6&host=github.com&page=/jhjung1402)
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jhjung1402)](https://github.com/jhjung1402/velog-readme-stats)
+![](https://notion-ga.ohwhos.now.sh/collect?tid=G-EL8CPQBJD6&host=github.com&page=/jhjung1402) -->
